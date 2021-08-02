@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mediaplusarchi/cfrlab/static/css/main.cea01fca.chunk.css",
+    "main.js": "/mediaplusarchi/cfrlab/static/js/main.4d7ebe93.chunk.js",
+    "main.js.map": "/mediaplusarchi/cfrlab/static/js/main.4d7ebe93.chunk.js.map",
+    "runtime~main.js": "/mediaplusarchi/cfrlab/static/js/runtime~main.dace8b32.js",
+    "runtime~main.js.map": "/mediaplusarchi/cfrlab/static/js/runtime~main.dace8b32.js.map",
+    "static/css/2.d1f75f32.chunk.css": "/mediaplusarchi/cfrlab/static/css/2.d1f75f32.chunk.css",
+    "static/js/2.e6ca4634.chunk.js": "/mediaplusarchi/cfrlab/static/js/2.e6ca4634.chunk.js",
+    "static/js/2.e6ca4634.chunk.js.map": "/mediaplusarchi/cfrlab/static/js/2.e6ca4634.chunk.js.map",
+    "index.html": "/mediaplusarchi/cfrlab/index.html",
+    "precache-manifest.4c5edd3cc8d47192ed239446ad170f7e.js": "/mediaplusarchi/cfrlab/precache-manifest.4c5edd3cc8d47192ed239446ad170f7e.js",
+    "service-worker.js": "/mediaplusarchi/cfrlab/service-worker.js",
+    "static/css/2.d1f75f32.chunk.css.map": "/mediaplusarchi/cfrlab/static/css/2.d1f75f32.chunk.css.map",
+    "static/css/main.cea01fca.chunk.css.map": "/mediaplusarchi/cfrlab/static/css/main.cea01fca.chunk.css.map",
+    "static/media/App.css": "/mediaplusarchi/cfrlab/static/media/RobotoCondensed-LightItalic.9f98bc7a.ttf",
+    "static/media/semantic.min.css": "/mediaplusarchi/cfrlab/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/logo.svg": "/mediaplusarchi/cfrlab/static/media/logo.5d5d9eef.svg",
+    "static/media/slick-theme.css": "/mediaplusarchi/cfrlab/static/media/slick.f97e3bbf.svg"
+  }
+}
