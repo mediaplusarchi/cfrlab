@@ -88,20 +88,6 @@
 			},
 			{
 				"type":"dropdown",
-				"title":"2020media",
-				"title_tw":"2020 數媒系",
-				"sub":[
-					{
-						"type":"button",
-						"title":"basicpages",
-						"title_tw":"基本互動實作",
-						"sub":null
-					}
-					
-				]
-			},
-			{
-				"type":"dropdown",
 				"title":"2020ouroboros",
 				"title_tw":"IDF國際工作坊",
 				"sub":[
@@ -240,33 +226,8 @@
 			{
 				"type":"topic",
 				"title":"logging",
-				"title_tw":"策展",
-				"sub":null
-			},
-			{
-				"type":"dropdown",
-				"title":"2020logging",
 				"title_tw":"工作紀錄",
-				"sub":[
-					{
-						"type":"button",
-						"title":"archiTeamA",
-						"title_tw":"archiTeamA",
-						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"archiTeamB",
-						"title_tw":"archiTeamB",
-						"sub":null
-					},
-					{
-						"type":"button",
-						"title":"archiTeamC",
-						"title_tw":"archiTeamC",
-						"sub":null
-					}
-				]
+				"sub":null
 			}
 		]
 	},
