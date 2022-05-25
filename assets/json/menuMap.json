@@ -123,6 +123,49 @@
 						"sub":null
 					}
 				]
+			},
+			{
+				"type":"divider",
+				"title":null,
+				"title_tw":null,
+				"sub":null
+			},
+			{
+				"type":"topic",
+				"title":"2021",
+				"title_tw":"進行中",
+				"sub":null
+			},
+			{
+				"type":"dropdown",
+				"title":"2021archi",
+				"title_tw":"2021建築系",
+				"sub":[
+					{
+						"type":"button",
+						"title":"teamA",
+						"title_tw":"佳雯俐欣組",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"teamB",
+						"title_tw":"柏翰舒平組",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"teamC",
+						"title_tw":"國凭詠綺組",
+						"sub":null
+					},
+					{
+						"type":"button",
+						"title":"teamD",
+						"title_tw":"威漢冠呈組",
+						"sub":null
+					}
+				]
 			}
 		]
 	},
